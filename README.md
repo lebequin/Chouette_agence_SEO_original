@@ -9,7 +9,7 @@
 ***
 ## 📎 Projet 4 - Optimisez le site web existant "La Chouette Agence"
 
-Le site hébergé sur GitHub : [La Chouette Agence](https://lebequin.github.io/LeoBequin_4_SEO-Modified/)
+Le site hébergé sur GitHub : [La Chouette Agence](https://lebequin.github.io/Chouette_agence_SEO_original/)
 
 ### 🔨 Optimisez un site web existant
 
